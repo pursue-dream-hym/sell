@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 /**
- * Created by 廖师兄
- * 2017-05-07 14:35
+ * Created by 贺永明
+ * 2019-05-07 14:35
  */
 public interface ProductCategoryRepository extends JpaRepository<ProductCategory, Integer> {
 

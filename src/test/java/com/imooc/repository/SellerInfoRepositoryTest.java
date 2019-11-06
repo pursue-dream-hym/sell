@@ -10,8 +10,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * Created by 廖师兄
- * 2017-07-23 23:05
+ * Created by 贺永明
+ * 2019-07-23 23:05
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest

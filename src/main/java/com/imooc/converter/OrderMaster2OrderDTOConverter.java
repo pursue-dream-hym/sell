@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Created by 廖师兄
- * 2017-06-11 22:02
+ * Created by 贺永明
+ * 2019-06-11 22:02
  */
 public class OrderMaster2OrderDTOConverter {
 

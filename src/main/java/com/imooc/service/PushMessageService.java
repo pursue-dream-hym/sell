@@ -4,8 +4,8 @@ import com.imooc.dto.OrderDTO;
 
 /**
  * 推送消息
- * Created by 廖师兄
- * 2017-07-30 22:08
+ * Created by 贺永明
+ * 2019-07-30 22:08
  */
 public interface PushMessageService {
 

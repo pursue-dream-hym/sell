@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * Created by 廖师兄
- * 2017-07-30 17:44
+ * Created by 贺永明
+ * 2019-07-30 17:44
  */
 @ControllerAdvice
 public class SellExceptionHandler {

@@ -20,8 +20,8 @@ import java.util.Map;
 
 /**
  * 卖家类目
- * Created by 廖师兄
- * 2017-07-23 21:06
+ * Created by 贺永明
+ * 2019-07-23 21:06
  */
 @Controller
 @RequestMapping("/seller/category")

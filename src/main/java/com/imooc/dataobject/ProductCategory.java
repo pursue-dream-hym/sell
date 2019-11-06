@@ -10,8 +10,8 @@ import java.util.Date;
 
 /**
  * 类目
- * Created by 廖师兄
- * 2017-05-07 14:30
+ * Created by 贺永明
+ * 2019-05-07 14:30
  */
 @Entity
 @DynamicUpdate

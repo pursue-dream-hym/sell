@@ -18,8 +18,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 廖师兄
- * 2017-06-11 19:54
+ * Created by 贺永明
+ * 2019-06-11 19:54
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -37,7 +37,7 @@ public class OrderServiceImplTest {
     public void create() throws Exception {
 
         OrderDTO orderDTO = new OrderDTO();
-        orderDTO.setBuyerName("廖师兄");
+        orderDTO.setBuyerName("贺永明");
         orderDTO.setBuyerAddress("幕课网");
         orderDTO.setBuyerPhone("123456789012");
         orderDTO.setBuyerOpenid(BUYER_OPENID);

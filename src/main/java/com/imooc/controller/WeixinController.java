@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * Created by 廖师兄
- * 2017-07-03 00:50
+ * Created by 贺永明
+ * 2019-07-03 00:50
  */
 @RestController
 @RequestMapping("/weixin")

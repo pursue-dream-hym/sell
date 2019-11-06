@@ -1,8 +1,8 @@
 package com.imooc.utils;
 
 /**
- * Created by 廖师兄
- * 2017-07-09 16:56
+ * Created by 贺永明
+ * 2019-07-09 16:56
  */
 public class MathUtil {
 

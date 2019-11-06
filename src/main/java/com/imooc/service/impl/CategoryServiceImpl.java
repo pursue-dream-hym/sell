@@ -10,8 +10,8 @@ import java.util.List;
 
 /**
  * 类目
- * Created by 廖师兄
- * 2017-05-09 10:16
+ * Created by 贺永明
+ * 2019-05-09 10:16
  */
 @Service
 public class CategoryServiceImpl implements CategoryService {

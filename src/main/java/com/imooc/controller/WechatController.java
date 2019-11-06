@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.net.URLEncoder;
 
 /**
- * Created by 廖师兄
- * 2017-07-03 01:20
+ * Created by 贺永明
+ * 2019-07-03 01:20
  */
 @Controller
 @RequestMapping("/wechat")
